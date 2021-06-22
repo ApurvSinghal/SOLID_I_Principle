@@ -1,0 +1,2 @@
+# SOLID_I_Principle
+ InterfaceSegregationPrincipleDemo
